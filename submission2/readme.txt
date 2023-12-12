@@ -9,7 +9,8 @@ Recommendation System With Hierarchical Recurrent Neural Network for Long-Term T
 Link to the paper:
 https://ieeexplore.ieee.org/document/9430555
 
-Group Number: 14
+Group Number:
+14
 
 Individual Submitter:
 20101231 Md. Sifat Kamal

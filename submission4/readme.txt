@@ -1,0 +1,20 @@
+Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
+
+
+Link to unlisted YouTube video:
+
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1Cf62CICvzkn-dKBg62O83NzyEU60z4VR-8m305yqy8o/edit?usp=sharing
+
+Project title:
+Bengali Sentiment Analysis with Deep Learning Models
+
+Group Number:
+14
+
+Group Members:
+20101100 Saurav Das
+20101185 Kaushik Roy
+20101231 Md. Sifat Kamal
+20101445 MD. Mahfujul Haque

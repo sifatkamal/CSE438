@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
-
+https://docs.google.com/presentation/d/1RYh7hWC8z1b8JZyFL-tYBDdna_r5kwpHIo-mNL3TEJs/edit?usp=sharing
 
 Project title:
 Bengali Sentiment Analysis with Deep Learning Models
